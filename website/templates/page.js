@@ -28,5 +28,5 @@ function ogmeta(title, description) {
 	document.write('\
 	<meta property="og:title" content="' + title + ' | cda94581\'s Website" /> \
 	<meta property="og:description" content="' + description + '" /> \
-	')
+	');
 }
