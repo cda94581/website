@@ -21,12 +21,7 @@ function write(levels, pageTitle) {
 			<a href="' + pathBack + 'non_youtube-y_things">Non YouTube-y Things</a> \
 		</div> \
 		<a href="javascript:void(0)" onclick="openNavigation()" id="openNavigation">&#9776;</a> \
-	');
-}
-
-function ogmeta(title, description) {
-	document.write('\
-	<meta property="og:title" content="' + title + ' | cda94581\'s Website" /> \
-	<meta property="og:description" content="' + description + '" /> \
+		<meta property="og:title" content="cda94581\'s Website"> \
+		<meta property="og:description" content="cda94581, hobby YouTuber, Programmer, Add-on Developer; Technical Minecraft Know-how, Minecraft Let\'s Plays, and more."> \
 	');
 }
