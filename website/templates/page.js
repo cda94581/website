@@ -6,6 +6,13 @@ function write(levels, pageTitle) {
 		levelCount++;
 	}
 	document.write('\
+		</body> \
+		<head> \
+			<meta property="og:title" content="' + pageTitle + ' | cda94581\'s Website" />\
+			<meta property="og:description" content="cda94581, hobby YouTuber, Programmer, Add-on Developer; Technical Minecraft Know-how, Minecraft Let\'s Plays, and more. />\
+			<meta property="og:image" content="' + pathBack + '../resources/favicon.ico" />\
+		</head> \
+		<body> \
 		<link rel="stylesheet" href="' + pathBack + '../styles/page.css"> \
 		<title>' + pageTitle + ' | cda94581\'s Website</title> \
 		<link rel="stylesheet" href="' + pathBack + '../styles/navigation.css"> \
