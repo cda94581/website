@@ -9,7 +9,7 @@ function write(levels, pageTitle) {
 		</body> \
 		<head> \
 			<meta property="og:title" content="' + pageTitle + ' | cda94581\'s Website" />\
-			<meta property="og:description" content="cda94581, hobby YouTuber, Programmer, Add-on Developer; Technical Minecraft Know-how, Minecraft Let\'s Plays, and more. />\
+			<meta property="og:description" content="cda94581, hobby YouTuber, Programmer, Add-on Developer; Technical Minecraft Know-how, Minecraft Let\'s Plays, and more." />\
 			<meta property="og:image" content="' + pathBack + '../resources/favicon.ico" />\
 		</head> \
 		<body> \
