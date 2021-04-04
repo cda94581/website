@@ -23,3 +23,10 @@ function write(levels, pageTitle) {
 		<a href="javascript:void(0)" onclick="openNavigation()" id="openNavigation">&#9776;</a> \
 	');
 }
+
+function ogmeta(title, description) {
+	document.write('\
+	<meta property="og:title" content="' + title + ' | cda94581\'s Website" /> \
+	<meta property="og:description" content="' + description + '" /> \
+	')
+}
