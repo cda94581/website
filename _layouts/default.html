@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="/assets/css/page.css">
+		<meta property="og:title" content="{{ page.title }} | cda94581's Website">
+		<meta property="og:description" content="cda94581, hobby YouTuber, Programmer, Add-on Developer; Technical Minecraft Know-how, Minecraft Let's Plays, and more.">
+		<title>{{ page.title }} | cda94581's Website</title>
+		<link rel="icon" type="image/png" href="/assets/images/favicon.png">
+	</head>
+	<body>
+		{% include navigation.html %}
+		<div id="main">
+			<h1 id="Top">{{ page.title }}</h1>
+			{{ content }}
+		</div>
+	</body>
+</html>
