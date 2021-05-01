@@ -35,12 +35,12 @@ title: Behavior Packs/Addons
 	<div class="container-3">
 		<p>Morph Add-on ALPHA, hostile mobs as listed by MC Gamepedia<br>Read the README.TXT file for more
 			information<br>Download on MCPEDL <a href="https://mcpedl.com/cdas-morph/"
-				target="_blank">here</a><br><a href="mar16-2021">Changelogs & Other Assets</a></p>
+				target="_blank">here</a><br><a href="./mar16-2021">Changelogs & Other Assets</a></p>
 	</div>
 	<div class="container-3">
 		<p>Copper Add-on by cda94581<br>All Copper blocks are added, aside from the Lightning Rod and
 			Spyglass<br>Read the README.TXT file for more information<br>Download <a
 				href="../../../../downloads/packs/bps/cdasCopperV1.0.1.mcaddon" target="_blank">here</a><br><a
-				href="nov10-2020">Changelogs</a></p>
+				href="./nov10-2020">Changelogs</a></p>
 	</div>
 </div>

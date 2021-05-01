@@ -7,10 +7,10 @@ title: Downloads
 </p>
 <div class="clearfix">
 	<div class="container-2">
-		<h2 style="font-weight: lighter;" id="packs"><a href="packs">Packs</a></h2>
+		<h2 style="font-weight: lighter;" id="packs"><a href="./packs">Packs</a></h2>
 	</div>
 	<div class="container-2">
-		<h2 style="font-weight: lighter;" id="maps"><a href="maps">Maps</a></h2>
+		<h2 style="font-weight: lighter;" id="maps"><a href="./maps">Maps</a></h2>
 	</div>
 </div>
 <div class="clearfix">

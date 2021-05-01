@@ -8,13 +8,13 @@ title: Packs
 </p>
 <div class="clearfix">
 	<div class="container-3">
-		<h2 style="font-weight: lighter;" id="rp"><a href="rps">Resource Packs</a></h2>
+		<h2 style="font-weight: lighter;" id="rp"><a href="./rps">Resource Packs</a></h2>
 	</div>
 	<div class="container-3">
-		<h2 style="font-weight: lighter;" id="bp"><a href="bps">Behavior Packs/Addons</a></h2>
+		<h2 style="font-weight: lighter;" id="bp"><a href="./bps">Behavior Packs/Addons</a></h2>
 	</div>
 	<div class="container-3">
-		<h2 style="font-weight: lighter;" id="tp"><a href="tps">Tutorial Packs</a></h2>
+		<h2 style="font-weight: lighter;" id="tp"><a href="./tps">Tutorial Packs</a></h2>
 	</div>
 </div>
 <div class="clearfix">

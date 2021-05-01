@@ -6,7 +6,7 @@ title: Assets
 	<div class="container-3"></div>
 	<div class="container-3"></div>
 	<div class="container-3">
-		<h1 id="jan12-2021"><a href="jan12-2021">Minecraft Bedrock Custom Fogs | DIY Minecraft</a></h1>
+		<h1 id="jan12-2021"><a href="./jan12-2021">Minecraft Bedrock Custom Fogs | DIY Minecraft</a></h1>
 	</div>
 </div>
 <div class="clearfix">
@@ -22,15 +22,15 @@ title: Assets
 </div>
 <div class="clearfix">
 	<div class="container-3">
-		<h1 id="dec22-2020"><a href="dec22-2020">How to Make a World Border in Minecraft Bedrock | MCBE Add-on
+		<h1 id="dec22-2020"><a href="./dec22-2020">How to Make a World Border in Minecraft Bedrock | MCBE Add-on
 				Tutorial</a></h1>
 	</div>
 	<div class="container-3">
-		<h1 id="dec1-2020"><a href="dec1-2020">Minecraft Bedrock CUSTOM Textures! Change the way Your Game Looks! | DIY
+		<h1 id="dec1-2020"><a href="./dec1-2020">Minecraft Bedrock CUSTOM Textures! Change the way Your Game Looks! | DIY
 				Minecraft</a></h1>
 	</div>
 	<div class="container-3">
-		<h1 id="jun22-2020"><a href="jun22-2020">How to Reset the Nether! 1.16 Nether Update | Bedrock Edition
+		<h1 id="jun22-2020"><a href="./jun22-2020">How to Reset the Nether! 1.16 Nether Update | Bedrock Edition
 				Tutorial</a></h1>
 	</div>
 </div>

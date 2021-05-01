@@ -3,10 +3,10 @@ title: Non YouTube-y Things
 ---
 <div class="clearfix">
 	<div class="container-2">
-		<h2 style="font-weight: lighter;" id="github"><a href="github-y_things">Github-y Things</a></h2>
+		<h2 style="font-weight: lighter;" id="github"><a href="./github-y_things">Github-y Things</a></h2>
 	</div>
 	<div class="container-2">
-		<h2 style="font-weight: lighter;" id="discord"><a href="discord-y_things">Discord-y Things</a></h2>
+		<h2 style="font-weight: lighter;" id="discord"><a href="./discord-y_things">Discord-y Things</a></h2>
 	</div>
 </div>
 
