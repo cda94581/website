@@ -1,7 +1,8 @@
 ---
 title: Behavior Packs/Addons
+permalink: /website/pages/downloads/packs/bps/
 ---
-< [Back to Packs](..)
+< [Back to Packs](.)
 <div class="clearfix">
 	<div class="container-3"></div>
 	<div class="container-3">

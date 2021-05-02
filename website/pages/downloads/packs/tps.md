@@ -1,5 +1,6 @@
 ---
 title: Tutorial Packs
+permalink: /website/pages/downloads/packs/tps/
 ---
 < [Back to Packs](.)
 <div class="clearfix">

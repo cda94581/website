@@ -1,5 +1,6 @@
 ---
 title: cda94581's Website
+permalink: /website/pages/home/
 ---
 <script src="https://apis.google.com/js/platform.js"></script>
 <div class="clearfix">

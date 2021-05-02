@@ -1,5 +1,6 @@
 ---
 title: Resource Packs
+permalink: /website/pages/downloads/packs/rps/
 ---
 < [Back to Packs](.)
 <div class="clearfix">
