@@ -2,7 +2,7 @@
 title: Resource Packs
 permalink: /website/pages/downloads/packs/rps/
 ---
-< [Back to Packs](.)
+< [Back to Packs](..)
 <div class="clearfix">
 	<div class="container-3"></div>
 	<div class="container-3"></div>

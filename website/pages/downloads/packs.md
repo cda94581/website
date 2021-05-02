@@ -2,7 +2,7 @@
 title: Packs
 permalink: /website/pages/downloads/packs/
 ---
-< [Back to Downloads](.)
+< [Back to Downloads](..)
 <p style="text-align: center;">
 	Please do note that I did not create all these packs, some I just use and have posted a download link for.<br>
 	Credits to their original creators

@@ -2,7 +2,7 @@
 title: The Campaign (Series)
 permalink: /website/pages/non_youtube-y_things/discord-y_things/stories/the_campaign_series/
 ---
-< [Back to Stories](.)
+< [Back to Stories](..)
 <div class="clearfix">
 	<div class="container-2">
 		<h2 style="font-weight: lighter; text-align: center;" id="the-campaign-draft1"><a href="./the_campaign_draft_1">The Campaign (Book) - Draft 1</a></h2>

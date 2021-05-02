@@ -2,7 +2,7 @@
 title: World Downloads
 permalink: /website/pages/downloads/maps/world_downloads/
 ---
-< [Back to Maps](.)
+< [Back to Maps](..)
 <div class="clearfix">
 	<div class="container-3"></div>
 	<div class="container-3">
