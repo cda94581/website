@@ -6,10 +6,10 @@ permalink: /website/pages/downloads/packs/tps/
 <div class="clearfix">
 	<div class="container-3"></div>
 	<div class="container-3">
-		<h2 style="font-weight: lighter;" id="mar9-2021">Custom Items, Released Mar 2, 2021, BP</h2>
+		<h2 style="font-weight: lighter;" id="20210309">Custom Items, Released Mar 9, 2021, BP</h2>
 	</div>
 	<div class="container-3">
-		<h2 style="font-weight: lighter;" id="mar2-2021">Entity Spawn Rules, Released Mar 2, 2021, BP</h2>
+		<h2 style="font-weight: lighter;" id="20210302">Entity Spawn Rules, Released Mar 2, 2021, BP</h2>
 	</div>
 </div>
 <div class="clearfix">
@@ -42,14 +42,14 @@ permalink: /website/pages/downloads/packs/tps/
 </div>
 <div class="clearfix">
 	<div class="container-3">
-		<h2 style="font-weight: lighter;" id="feb23-2021">Custom Entities, Released Feb 23, 2021, BP</h2>
+		<h2 style="font-weight: lighter;" id="20210223">Custom Entities, Released Feb 23, 2021, BP</h2>
 	</div>
 	<div class="container-3">
-		<h2 style="font-weight: lighter;" id="feb2-2021">Behavior Pack Animation Controllers, Released Feb 2, 2021,
+		<h2 style="font-weight: lighter;" id="20210202">Behavior Pack Animation Controllers, Released Feb 2, 2021,
 			BP</h2>
 	</div>
 	<div class="container-3">
-		<h2 style="font-weight: lighter;" id="jan12-2021">Custom Fogs, Released Jan 12, 2021, RP</h2>
+		<h2 style="font-weight: lighter;" id="20210112">Custom Fogs, Released Jan 12, 2021, RP</h2>
 	</div>
 </div>
 <div class="clearfix">
@@ -88,14 +88,14 @@ permalink: /website/pages/downloads/packs/tps/
 </div>
 <div class="clearfix">
 	<div class="container-3">
-		<h2 style="font-weight: lighter;" id="jan5-2020">Modifying Recipes and Loot Tables, Released Jan 5, 2021, BP
+		<h2 style="font-weight: lighter;" id="20200105">Modifying Recipes and Loot Tables, Released Jan 5, 2021, BP
 		</h2>
 	</div>
 	<div class="container-3">
-		<h2 style="font-weight: lighter;" id="dec22-2020">World Border, Released Dec 22, 2020, BP</h2>
+		<h2 style="font-weight: lighter;" id="20201222">World Border, Released Dec 22, 2020, BP</h2>
 	</div>
 	<div class="container-3">
-		<h2 style="font-weight: lighter;" id="dec15-2020">Modifying Entity Behaviors, Released Dec 15, 2020, BP</h2>
+		<h2 style="font-weight: lighter;" id="20201215">Modifying Entity Behaviors, Released Dec 15, 2020, BP</h2>
 	</div>
 </div>
 <div class="clearfix">
@@ -134,13 +134,13 @@ permalink: /website/pages/downloads/packs/tps/
 </div>
 <div class="clearfix">
 	<div class="container-3">
-		<h2 style="font-weight: lighter;" id="dec8-2020">Modifying Entity Models, Released Dec 8, 2020, RP</h2>
+		<h2 style="font-weight: lighter;" id="20201208">Modifying Entity Models, Released Dec 8, 2020, RP</h2>
 	</div>
 	<div class="container-3">
-		<h2 style="font-weight: lighter;" id="dec1-2020">Modifying Textures, Released Dec 1, 2020, RP</h2>
+		<h2 style="font-weight: lighter;" id="20201208">Modifying Textures, Released Dec 1, 2020, RP</h2>
 	</div>
 	<div class="container-3">
-		<h2 style="font-weight: lighter;" id="oct2-2020">Custom Skin Pack, Released Oct 2, 2020, SP</h2>
+		<h2 style="font-weight: lighter;" id="20201008">Custom Skin Pack, Released Oct 2, 2020, SP</h2>
 	</div>
 </div>
 <div class="clearfix">
