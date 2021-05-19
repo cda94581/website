@@ -44,7 +44,7 @@ permalink: /website/pages/home/
 <div class="clearfix">
 	<div class="container-2">
 		<div class="yt-ttv-container">
-			<iframe src="https://www.youtube-nocookie.com/embed/M7I2wqYv43k" frameborder="0"
+			<iframe src="https://www.youtube-nocookie.com/embed/ry5WhrjdXiU" frameborder="0"
 				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 				allowfullscreen class="yt-ttv-container"></iframe>
 		</div>
