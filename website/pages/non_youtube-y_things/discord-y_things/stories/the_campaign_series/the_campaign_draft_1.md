@@ -23,6 +23,7 @@ permalink: /website/pages/non_youtube-y_things/discord-y_things/stories/the_camp
 		<li><a href="#15">Chapter 15</a></li>
 		<li><a href="#16">Chapter 16</a></li>
 		<li><a href="#17">Chapter 17</a></li>
+		<li><a href="#18">Chapter 18</a></li>
 	</ol>
 </div>
 
@@ -381,6 +382,23 @@ Adding to the sting was the fact that I had forgotten that not only was the scho
 As I stood there, Hank walked away from me in silence to rejoin his friend Derek. They started whispering, and I was almost certain they were talking about me. About us. After all, why does a black man think he can just show up to a historically all-white group and start leading the group?
 I stood for what seemed like an eternity, frozen. It was really only a few minutes. What snapped me back to the present was when I saw Raya packing up and heading for the door. No one seemed to care, no one tried to stop her. She was an "inferior" as well. I left too.
 				
+```
+
+[Jump to Top](#Top)
+
+<h3 style="font-weight: lighter;" id="18">Chapter 18</h3>
+```
+At night, I headed for my room and sat there on my bed, thinking. I wanted to just sit there, motionless, for hours maybe, however there was something that was bothering me. The look on Raya’s face when Hank downright accused us of dragging down the team because of an X chromosome instead of a Y, or the amount of melanin we had. I went downstairs to our computer room and sent an email to Raya, "Hey, you alright?" I headed off to bed after that.
+The next day by instinct, I went to check my email. I saw that Raya had replied, "Hey Blaine. Yeah, I’m okay I guess, it’s just what happened earlier today. You know, I’m sorry for saying this, but I kinda thought that the only discrimination happening here was racism. Turns out I’m wrong, this school is also sexist, and I’m sorry for that. I hope that didn’t offend you.
+"You know I joined to change the school for the better, and I was really passionate about that. But after yesterday, I’m not so sure I want to continue. I think you feel the same way as I do. I don’t know honestly, I’m just sad that this is the state of our district. I had such big ideas as well, but they might have to go down the drain. Again, I just don’t know what to do. Well wishes, Raya"
+I don’t know what was in that email, but it gave me a wake up call. I quickly sent an email back offering comfort, mentioning Gwen, and also in that moment, I realized what I wanted to do because of it. I sent that plan to Raya, too. Afterwards, I then went to get ready for school.
+If you remember what I did with the app, you’d know that I’m not one to give up so easily. No, far from it. So of course, by instinct I didn’t give up, and after school I headed straight for the room, as I had told Raya I’d do. I told her I’d understand if she didn’t want to come, however she did, and was now sitting in the room, quietly drawing in her notebook. As a side note, that app had over 100000 downloads now, which I really can’t wrap my head around!
+"Hey," Raya said. "I got your email."
+"Great, ready to work?" I asked. She nodded.
+The other 3 members came in afterwards, and they appeared to shoot us dirty looks. During the hour, they played on their phones on one side of the room, we worked together on the other side. After all, the way I saw it, our meetings were an hour long, not 5 minutes, for a reason. By the end of the time, we were nearing completion of our research. Raya and I had planned to try and finish by the end of the day, so I told her that I’d go home to work on it. We planned on our agenda for tomorrow, to discuss ways to execute the Animal donation drive, then maybe deciding on one and executing it. Since I was working so hard during our meeting, I decided that it was a good idea to take a brain break once I got home.
+I went for a jog around the park, which helped to clear my mind. A jog is one of those tasks that, after you get into a rhythm, you start to let your legs carry themselves and you’re left with your thoughts. It can be both painful like that, or calming. Today was a calming kind of jog. I appreciated the nature around me and just enjoyed being in the moment. It gave me time to reflect, and soon enough, my mind naturally found its way winding through my past. As I was flashing through the memories, from childhood mistakes I regret and laugh about later, to the latest COVID pandemic and the good things that’s also come from it.
+Eventually my mind found its way to a time when I was 8. I had just come home from school, and there was a stray cat who had found its way into the garage. I called over my friends and we started messing around with the cat. I didn’t notice at the time, but while we were playing with it, the cat started to try and get away. While we circled around it, I watched it searching frantically for a way out, and when we formed a gap unknowingly, the cat took their chance and dashed out.
+Now when I was jogging, thinking about that moment, I realized that my friends and I, in a way, were bullying the cat. Just as we get bullied at school. In that way, we are that cat, and that cat is us. In that spark of realization, I realized that, assuming my assumptions were correct, I could use that cat to help with marketing for the Animal ARK. I emailed Mr. Braten as soon as I got back home, to find out.
 ```
 
 [Jump to Top](#Top)
