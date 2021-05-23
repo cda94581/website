@@ -44,3 +44,23 @@ permalink: /website/pages/about/
 		</p>
 	</div>
 </div>
+<div class="clearfix">
+	<div class="container-2">
+		<h1 id="friend-requests">Friend Request Policy</h1>
+		<p style="text-align: left;">
+			I have a policy when it comes to friend requests. Anyone is free to send me friend requests, however not everyone will be accepted.<br>
+			If you just send me a friend request, chances are, you'll be that group. My criteria for acceptance is simple:
+			<ul>
+				<li>I have had a least a few interactions with you</li>
+				<li>Most/all those interactions have been positive</li>
+				<li>I've enjoyed the interactions</li>
+				<li>Please. Don't just interact with me.</li>
+				<li>Interactions with others should be positive</li>
+			</ul>
+			If these criteria are met, I may accept.<br><br>
+			Discord is slightly different. All the criteria above apply, however if you've tried to send me a friend request there, chances are you've noticed that I've blocked them.<br>
+			Personally, I believe DMs are enough to get by, and that friend requests aren't necessary. However, if you really want it, ask me. If criteria is met, I'll open up friend requests so you can send it.
+		</p>
+	</div>
+	<div class="container-2"></div>
+</div>
