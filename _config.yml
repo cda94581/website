@@ -4,3 +4,8 @@ defaults:
     values:
       layout: "default"
       permalink: /:path/:basename/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
