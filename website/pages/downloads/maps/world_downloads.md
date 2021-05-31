@@ -1,6 +1,5 @@
 ---
 title: World Downloads
-permalink: /website/pages/downloads/maps/world_downloads/
 ---
 < [Back to Maps](..)
 <div class="clearfix">

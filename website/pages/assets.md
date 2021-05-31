@@ -1,6 +1,5 @@
 ---
 title: Assets
-permalink: /website/pages/assets/
 ---
 <h2 style="text-align: center; font-weight: lighter;">Helpful resources from my tutorials</h2>
 <div class="clearfix">

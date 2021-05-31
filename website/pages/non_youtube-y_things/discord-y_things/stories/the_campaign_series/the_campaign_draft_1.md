@@ -1,6 +1,5 @@
 ---
 title: The Campaign (Book) - Draft 1
-permalink: /website/pages/non_youtube-y_things/discord-y_things/stories/the_campaign_series/the_campaign_draft_1/
 ---
 < [Back to The Campaign (Series)](..)
 <div class="toc">

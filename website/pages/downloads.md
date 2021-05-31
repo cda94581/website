@@ -1,6 +1,5 @@
 ---
 title: Downloads
-permalink: /website/pages/downloads/
 ---
 <p style="text-align: center;">
 	Please note that all of these packs are currently only in the Minecraft Bedrock Edition.<br>

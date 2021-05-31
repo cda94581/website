@@ -1,6 +1,5 @@
 ---
 title: The Campaign (Series)
-permalink: /website/pages/non_youtube-y_things/discord-y_things/stories/the_campaign_series/
 ---
 < [Back to Stories](..)
 <div class="clearfix">

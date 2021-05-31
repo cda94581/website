@@ -1,6 +1,5 @@
 ---
 title: Packs
-permalink: /website/pages/downloads/packs/
 ---
 < [Back to Downloads](..)
 <p style="text-align: center;">

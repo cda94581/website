@@ -1,6 +1,5 @@
 ---
 title: Non YouTube-y Things
-permalink: /website/pages/non_youtube-y_things/
 ---
 <div class="clearfix">
 	<div class="container-2">

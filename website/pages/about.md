@@ -1,6 +1,5 @@
 ---
 title: About
-permalink: /website/pages/about/
 ---
 <div class="clearfix">
 	<div class="container-2">
