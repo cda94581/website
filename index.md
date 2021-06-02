@@ -2,5 +2,5 @@
 title: cda94581's Website
 permalink: /
 ---
-<p>If you were not redirected, <a href="/website/pages/home/">click here</a>.</p>
+If you were not redirected, [click here](/website/pages/home/)
 <meta http-equiv="refresh" content="0; url=/website/pages/home/">
