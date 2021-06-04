@@ -41,7 +41,7 @@ title: Behavior Packs/Addons
 <div class="clearfix">
 	<div class="container-3">
 		<p>Morph Add-on ALPHA, hostile mobs as listed by MC Gamepedia<br>Read the README.TXT file for more
-			information<br>Download on Mediafire <a href="https://www.mediafire.com/file/soyb761h9u8z6zg/openSourceChunkLoadersV1.0.0.mcaddon/file"
+			information<br>Download on MCPEDL <a href="https://mcpedl.com/open-source-chunk-loaders/"
 				target="_blank">here</a><br><a href="./2021/06/01/">Changelogs & Other Assets</a></p>
 	</div>
 	<div class="container-3">
