@@ -3,6 +3,38 @@ title: Behavior Packs/Addons
 ---
 < [Back to Packs](..)
 <div class="clearfix">
+	<div class="container-3"></div>
+	<div class="container-3"></div>
+	<div class="container-3">
+		<h2 style="font-weight: lighter;" id="20210610">3rd Life Add-on by cda94581<br>Released: 2021/06/10, Version: 1.0.0</h2>
+	</div>
+</div>
+<div class="clearfix">
+	<div class="container-3">
+		<div class="yt-ttv-container"></div>
+	</div>
+	<div class="container-3">
+		<div class="yt-ttv-container"></div>
+	</div>
+	<div class="container-3">
+		<div class="yt-ttv-container">
+			<iframe src="https://www.youtube-nocookie.com/embed/GYFw8RbT58E" frameborder="0"
+				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+				allowfullscreen class="yt-ttv-container"></iframe>
+		</div>
+	</div>
+</div>
+<div class="clearfix">
+	<div class="container-3"></div>
+	<div class="container-3"></div>
+	<div class="container-3">
+		<p>3rd Life Add-on by cda94581<br>Based off of the 3rd Life SMP<br>Download BP <a
+				href="https://www.mediafire.com/file/0gllloud6n1i455/3rdLifeV1.0.0BP.mcpack/file" target="_blank">here</a><br>Download RP (optional) <a
+				href="https://www.mediafire.com/file/kjz4en47qxos9f7/3rdLifeV1.0.0RP.mcpack/file" target="_blank">here</a><br><a
+				href="./2021/06/10/">Changelogs & Other Assets</a></p>
+	</div>
+</div>
+<div class="clearfix">
 	<div class="container-3">
 		<h2 style="font-weight: lighter;" id="20210601">Open Source Chunk Loaders by cda94581<br>Released: 06/01/2021 Version: 1.0.0</h2>
 	</div>
