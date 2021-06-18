@@ -15,28 +15,22 @@ title: Tutorial Packs
 	<div class="container-3"></div>
 	<div class="container-3">
 		<div class="yt-ttv-container">
-			<iframe src="https://www.youtube-nocookie.com/embed/UYpjQJFSHz4" frameborder="0"
-				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-				allowfullscreen class="yt-ttv-container"></iframe>
+			<iframe src="https://www.youtube-nocookie.com/embed/UYpjQJFSHz4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="yt-ttv-container"></iframe>
 		</div>
 	</div>
 	<div class="container-3">
 		<div class="yt-ttv-container">
-			<iframe src="https://www.youtube-nocookie.com/embed/IpK6hISEYwU" frameborder="0"
-				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-				allowfullscreen class="yt-ttv-container"></iframe>
+			<iframe src="https://www.youtube-nocookie.com/embed/IpK6hISEYwU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="yt-ttv-container"></iframe>
 		</div>
 	</div>
 </div>
 <div class="clearfix">
 	<div class="container-3"></div>
 	<div class="container-3">
-		<p><a href="../../../downloads/packs/tps/03-09-2021 cdaTutCustomItems - BP.mcaddon" target="_blank">Download</a>
-		</p>
+		<p><a href="../../../downloads/packs/tps/03-09-2021 cdaTutCustomItems - BP.mcaddon" target="_blank">Download</a></p>
 	</div>
 	<div class="container-3">
-		<p><a href="../../../downloads/packs/tps/03-02-2021 cdaTutEntitySpawnRules - BP.mcaddon"
-				target="_blank">Download</a></p>
+		<p><a href="../../../downloads/packs/tps/03-02-2021 cdaTutEntitySpawnRules - BP.mcaddon" target="_blank">Download</a></p>
 	</div>
 </div>
 <div class="clearfix">
@@ -54,23 +48,17 @@ title: Tutorial Packs
 <div class="clearfix">
 	<div class="container-3">
 		<div class="yt-ttv-container">
-			<iframe src="https://www.youtube-nocookie.com/embed/XTYY-barRc8" frameborder="0"
-				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-				allowfullscreen class="yt-ttv-container"></iframe>
+			<iframe src="https://www.youtube-nocookie.com/embed/XTYY-barRc8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="yt-ttv-container"></iframe>
 		</div>
 	</div>
 	<div class="container-3">
 		<div class="yt-ttv-container">
-			<iframe src="https://www.youtube-nocookie.com/embed/Ie_s4dDwTLM" frameborder="0"
-				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-				allowfullscreen class="yt-ttv-container"></iframe>
+			<iframe src="https://www.youtube-nocookie.com/embed/Ie_s4dDwTLM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="yt-ttv-container"></iframe>
 		</div>
 	</div>
 	<div class="container-3">
 		<div class="yt-ttv-container">
-			<iframe src="https://www.youtube-nocookie.com/embed/Y0xzHlYKVqs" frameborder="0"
-				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-				allowfullscreen class="yt-ttv-container"></iframe>
+			<iframe src="https://www.youtube-nocookie.com/embed/Y0xzHlYKVqs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="yt-ttv-container"></iframe>
 		</div>
 	</div>
 </div>
@@ -87,8 +75,7 @@ title: Tutorial Packs
 </div>
 <div class="clearfix">
 	<div class="container-3">
-		<h2 style="font-weight: lighter;" id="20200105">Modifying Recipes and Loot Tables, Released Jan 5, 2021, BP
-		</h2>
+		<h2 style="font-weight: lighter;" id="20200105">Modifying Recipes and Loot Tables, Released Jan 5, 2021, BP</h2>
 	</div>
 	<div class="container-3">
 		<h2 style="font-weight: lighter;" id="20201222">World Border, Released Dec 22, 2020, BP</h2>
@@ -100,23 +87,17 @@ title: Tutorial Packs
 <div class="clearfix">
 	<div class="container-3">
 		<div class="yt-ttv-container">
-			<iframe src="https://www.youtube-nocookie.com/embed/-UKDO9zdTx4" frameborder="0"
-				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-				allowfullscreen class="yt-ttv-container"></iframe>
+			<iframe src="https://www.youtube-nocookie.com/embed/-UKDO9zdTx4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="yt-ttv-container"></iframe>
 		</div>
 	</div>
 	<div class="container-3">
 		<div class="yt-ttv-container">
-			<iframe src="https://www.youtube-nocookie.com/embed/QZidj5Eqf5c" frameborder="0"
-				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-				allowfullscreen class="yt-ttv-container"></iframe>
+			<iframe src="https://www.youtube-nocookie.com/embed/QZidj5Eqf5c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="yt-ttv-container"></iframe>
 		</div>
 	</div>
 	<div class="container-3">
 		<div class="yt-ttv-container">
-			<iframe src="https://www.youtube-nocookie.com/embed/z54k14WmVhg" frameborder="0"
-				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-				allowfullscreen class="yt-ttv-container"></iframe>
+			<iframe src="https://www.youtube-nocookie.com/embed/z54k14WmVhg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="yt-ttv-container"></iframe>
 		</div>
 	</div>
 </div>
@@ -145,23 +126,17 @@ title: Tutorial Packs
 <div class="clearfix">
 	<div class="container-3">
 		<div class="yt-ttv-container">
-			<iframe src="https://www.youtube-nocookie.com/embed/jaCzfLT1NWU" frameborder="0"
-				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-				allowfullscreen class="yt-ttv-container"></iframe>
+			<iframe src="https://www.youtube-nocookie.com/embed/jaCzfLT1NWU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="yt-ttv-container"></iframe>
 		</div>
 	</div>
 	<div class="container-3">
 		<div class="yt-ttv-container">
-			<iframe src="https://www.youtube-nocookie.com/embed/5LL0r5Q6srY" frameborder="0"
-				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-				allowfullscreen class="yt-ttv-container"></iframe>
+			<iframe src="https://www.youtube-nocookie.com/embed/5LL0r5Q6srY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="yt-ttv-container"></iframe>
 		</div>
 	</div>
 	<div class="container-3">
 		<div class="yt-ttv-container">
-			<iframe src="https://www.youtube-nocookie.com/embed/xtAC7gAOcsY" frameborder="0"
-				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-				allowfullscreen class="yt-ttv-container"></iframe>
+			<iframe src="https://www.youtube-nocookie.com/embed/xtAC7gAOcsY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="yt-ttv-container"></iframe>
 		</div>
 	</div>
 </div>
@@ -173,7 +148,9 @@ title: Tutorial Packs
 		<p><a href="../../../downloads/packs/tps/cdaTutPack - RP.mcpack" target="_blank">Download</a></p>
 	</div>
 	<div class="container-3">
-		<p>I uhh...I think I deleted this pack after the video...I might recreate it someday
-			&#128517;<br />-cda94581 </p>
+		<p>
+			I uhh...I think I deleted this pack after the video...I might recreate it someday&#128517;<br>
+			-cda94581
+		</p>
 	</div>
 </div>

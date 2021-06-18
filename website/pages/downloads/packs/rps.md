@@ -14,9 +14,9 @@ title: Resource Packs
 	<div class="container-3"></div>
 	<div class="container-3"></div>
 	<div class="container-3">
-		<p>The <a href="https://mcpedl.com/chunkbounds-shaders" target="_blank">ChunkBounds Resource Pack</a> shows
-			chunk borders in your Minecraft Bedrock World! This is useful for many farms, as you sometimes need to chunk
-			align them. I also have this constantly on his Blasting to Bedrock world, as that is how I have all the
-			chunks<br>Note: As of Windows 10 1.16.200+, shaders do not work, including chunk borders</p>
+		<p>
+			The <a href="https://mcpedl.com/chunkbounds-shaders" target="_blank">ChunkBounds Resource Pack</a> shows chunk borders in your Minecraft Bedrock World! This is useful for many farms, as you sometimes need to chunk align them. I also have this constantly on my Blasting to Bedrock world, as that is how I have all the chunks<br>
+			Note: As of Windows 10 1.16.200+, shaders do not work, including chunk borders
+		</p>
 	</div>
 </div>
