@@ -15,7 +15,7 @@ title: Tutorial Packs
 </div>
 <div class="clearfix">
 	<div class="container-3">
-			<iframe src="https://www.youtube-nocookie.com/embed/tWRjJD4oVLs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="yt-ttv-container"></iframe></div>
+			<iframe src="https://www.youtube-nocookie.com/embed/tWRjJD4oVLs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="yt-ttv-container"></iframe>
 	<div class="container-3">
 		<div class="yt-ttv-container">
 			<iframe src="https://www.youtube-nocookie.com/embed/UYpjQJFSHz4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="yt-ttv-container"></iframe>
@@ -29,12 +29,12 @@ title: Tutorial Packs
 </div>
 <div class="clearfix">
 	<div class="container-3">
-		<p><a href="../../../downloads/packs/tps/2021-07-06 cdaTutCustomBlocks - BP.mcaddon" target="_blank">Download</a></p></div>
+		<p><a href="../../../../downloads/packs/tps/2021-07-06 cdaTutCustomBlocks - BP.mcaddon" target="_blank">Download</a></p></div>
 	<div class="container-3">
-		<p><a href="../../../downloads/packs/tps/03-09-2021 cdaTutCustomItems - BP.mcaddon" target="_blank">Download</a></p>
+		<p><a href="../../../../downloads/packs/tps/03-09-2021 cdaTutCustomItems - BP.mcaddon" target="_blank">Download</a></p>
 	</div>
 	<div class="container-3">
-		<p><a href="../../../downloads/packs/tps/03-02-2021 cdaTutEntitySpawnRules - BP.mcaddon" target="_blank">Download</a></p>
+		<p><a href="../../../../downloads/packs/tps/03-02-2021 cdaTutEntitySpawnRules - BP.mcaddon" target="_blank">Download</a></p>
 	</div>
 </div>
 <div class="clearfix">
@@ -68,13 +68,13 @@ title: Tutorial Packs
 </div>
 <div class="clearfix">
 	<div class="container-3">
-		<a href="../../../downloads/packs/tps/02-23-2021 cdaTutCustomEntities - BP.mcaddon" target="_blank">Download</a>
+		<a href="../../../../downloads/packs/tps/02-23-2021 cdaTutCustomEntities - BP.mcaddon" target="_blank">Download</a>
 	</div>
 	<div class="container-3">
-		<a href="../../../downloads/packs/tps/cdaTutBPAC - BP.mcpack" target="_blank">Download</a>
+		<a href="../../../../downloads/packs/tps/cdaTutBPAC - BP.mcpack" target="_blank">Download</a>
 	</div>
 	<div class="container-3">
-		<p><a href="../../../downloads/packs/tps/cdaTutFogs - RP.mcpack" target="_blank">Download</a></p>
+		<p><a href="../../../../downloads/packs/tps/cdaTutFogs - RP.mcpack" target="_blank">Download</a></p>
 	</div>
 </div>
 <div class="clearfix">
@@ -107,13 +107,13 @@ title: Tutorial Packs
 </div>
 <div class="clearfix">
 	<div class="container-3">
-		<p><a href="../../../downloads/packs/tps/cdaTutRecipesLTs - BP.mcpack" target="_blank">Download</a></p>
+		<p><a href="../../../../downloads/packs/tps/cdaTutRecipesLTs - BP.mcpack" target="_blank">Download</a></p>
 	</div>
 	<div class="container-3">
-		<p><a href="../../../downloads/packs/tps/cdaTutWorldBorder - BP.mcpack" target="_blank">Download</a></p>
+		<p><a href="../../../../downloads/packs/tps/cdaTutWorldBorder - BP.mcpack" target="_blank">Download</a></p>
 	</div>
 	<div class="container-3">
-		<p><a href="../../../downloads/packs/tps/cdaTutModEnt - BP.mcpack" target="_blank">Download</a></p>
+		<p><a href="../../../../downloads/packs/tps/cdaTutModEnt - BP.mcpack" target="_blank">Download</a></p>
 	</div>
 </div>
 <div class="clearfix">
@@ -146,10 +146,10 @@ title: Tutorial Packs
 </div>
 <div class="clearfix">
 	<div class="container-3">
-		<p><a href="../../../downloads/packs/tps/cdaTutModels - RP.mcpack" target="_blank">Download</a></p>
+		<p><a href="../../../../downloads/packs/tps/cdaTutModels - RP.mcpack" target="_blank">Download</a></p>
 	</div>
 	<div class="container-3">
-		<p><a href="../../../downloads/packs/tps/cdaTutPack - RP.mcpack" target="_blank">Download</a></p>
+		<p><a href="../../../../downloads/packs/tps/cdaTutPack - RP.mcpack" target="_blank">Download</a></p>
 	</div>
 	<div class="container-3">
 		<p>
