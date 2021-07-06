@@ -3,7 +3,9 @@ title: Tutorial Packs
 ---
 < [Back to Packs](..)
 <div class="clearfix">
-	<div class="container-3"></div>
+	<div class="container-3">
+		<h2 style="font-weight: lighter;" id="20210706">Custom Blocks, Released Jul 6, 2021, BP</h2>
+	</div>
 	<div class="container-3">
 		<h2 style="font-weight: lighter;" id="20210309">Custom Items, Released Mar 9, 2021, BP</h2>
 	</div>
@@ -12,7 +14,8 @@ title: Tutorial Packs
 	</div>
 </div>
 <div class="clearfix">
-	<div class="container-3"></div>
+	<div class="container-3">
+			<iframe src="https://www.youtube-nocookie.com/embed/tWRjJD4oVLs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="yt-ttv-container"></iframe></div>
 	<div class="container-3">
 		<div class="yt-ttv-container">
 			<iframe src="https://www.youtube-nocookie.com/embed/UYpjQJFSHz4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="yt-ttv-container"></iframe>
@@ -25,7 +28,8 @@ title: Tutorial Packs
 	</div>
 </div>
 <div class="clearfix">
-	<div class="container-3"></div>
+	<div class="container-3">
+		<p><a href="../../../downloads/packs/tps/2021-07-06 cdaTutCustomBlocks - BP.mcaddon" target="_blank">Download</a></p></div>
 	<div class="container-3">
 		<p><a href="../../../downloads/packs/tps/03-09-2021 cdaTutCustomItems - BP.mcaddon" target="_blank">Download</a></p>
 	</div>
