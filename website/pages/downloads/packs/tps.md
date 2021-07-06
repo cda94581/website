@@ -15,7 +15,10 @@ title: Tutorial Packs
 </div>
 <div class="clearfix">
 	<div class="container-3">
+		<div class="yt-ttv-container">
 			<iframe src="https://www.youtube-nocookie.com/embed/tWRjJD4oVLs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="yt-ttv-container"></iframe>
+		</div>
+	</div>
 	<div class="container-3">
 		<div class="yt-ttv-container">
 			<iframe src="https://www.youtube-nocookie.com/embed/UYpjQJFSHz4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="yt-ttv-container"></iframe>
@@ -29,7 +32,8 @@ title: Tutorial Packs
 </div>
 <div class="clearfix">
 	<div class="container-3">
-		<p><a href="../../../../downloads/packs/tps/2021-07-06 cdaTutCustomBlocks - BP.mcaddon" target="_blank">Download</a></p></div>
+		<p><a href="../../../../downloads/packs/tps/2021-07-06 cdaTutCustomBlocks - BP.mcaddon" target="_blank">Download</a></p>
+	</div>
 	<div class="container-3">
 		<p><a href="../../../../downloads/packs/tps/03-09-2021 cdaTutCustomItems - BP.mcaddon" target="_blank">Download</a></p>
 	</div>
