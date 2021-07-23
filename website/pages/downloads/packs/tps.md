@@ -3,6 +3,29 @@ title: Tutorial Packs
 ---
 < [Back to Packs](..)
 <div class="clearfix">
+	<div class="container-3"></div>
+	<div class="container-3"></div>
+	<div class="container-3">
+		<h2 style="font-weight: lighter;" id="20210727">Item Commands, Released Jul 27, 2021, BP</h2>
+	</div>
+</div>
+<div class="clearfix">
+	<div class="container-3"><div class="yt-ttv-container"></div></div>
+	<div class="container-3"><div class="yt-ttv-container"></div></div>
+	<div class="container-3">
+		<div class="yt-ttv-container">
+			<iframe src="https://www.youtube-nocookie.com/embed/zu7m8I94kAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="yt-ttv-container"></iframe>
+		</div>
+	</div>
+</div>
+<div class="clearfix">
+	<div class="container-3"></div>
+	<div class="container-3"></div>
+	<div class="container-3">
+		<p><a href="../../../../downloads/packs/tps/2021-07-27 cdaTutItemCommands - BP.mcaddon" target="_blank">Download</a></p>
+	</div>
+</div>
+<div class="clearfix">
 	<div class="container-3">
 		<h2 style="font-weight: lighter;" id="20210706">Custom Blocks, Released Jul 6, 2021, BP</h2>
 	</div>
